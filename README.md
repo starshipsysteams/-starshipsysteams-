@@ -6,7 +6,7 @@ I'm a passionate developer working on various projects behind the scenes. While 
 
 ### 💻 Technologies & Tools:
 - 🌐 Web Development: HTML, CSS
-- 🐍 Backend: Python
+- 🐍 Backend: Python, JavaSciprt
 - 📚 Currently Learning: C#, C++, C
 
 ---
