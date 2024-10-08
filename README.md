@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm StarshipSystems!
 
-<!-- Add a short introduction about yourself -->
 I'm a passionate developer working on various projects behind the scenes. Although most of my repositories are private, I have two public repositories you can check out! Always learning and exploring new tech.
 
 ---
@@ -19,7 +18,7 @@ I'm a passionate developer working on various projects behind the scenes. Althou
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starshipsysteams&layout=compact&theme=radical)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=starshipsysteams.starshipsysteams)
+![Visitors](https://komarev.com/ghpvc/?username=starshipsysteams&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/starshipsysteams?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/starshipsysteams?affiliations=OWNER%2CCOLLABORATOR)
 
@@ -33,5 +32,4 @@ I’m always exploring new technologies and love experimenting with backend syst
 
 ---
 
-<!-- Optionally add more GitHub stats or cool graphs -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=starshipsysteams&theme=radical)](https://git.io/streak-stats)
