@@ -1,16 +1,15 @@
-# Hi there! 👋 I'm StarshipSystems!
+# Hi there! 👋 I'm starship.systems!
 
-I'm a passionate developer working on various projects behind the scenes. Although most of my repositories are private, I have two public repositories you can check out! Always learning and exploring new tech.
+I'm a passionate developer working on various projects behind the scenes. While most of my repositories are private, I'm always learning and exploring new technologies.
 
 ---
 
 ### 💻 Technologies & Tools:
 - 🌐 Web Development: HTML, CSS
 - 🐍 Backend: Python
-- 📚 Learning: C#, C++, C
+- 📚 Currently Learning: C#, C++, C
 
 ---
-
 
 ### 📊 GitHub Stats:
 
@@ -18,8 +17,8 @@ I'm a passionate developer working on various projects behind the scenes. Althou
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starshipsysteams&layout=compact&theme=radical)
 
-![Visitors](https://komarev.com/ghpvc/?username=starshipsysteams&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/starshipsysteams?label=Follow&style=social)
+![Visitors](https://komarev.com/ghpvc/?username=starshipsysteams&color=blueviolet)  
+![GitHub followers](https://img.shields.io/github/followers/starshipsysteams?label=Follow&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/starshipsysteams?affiliations=OWNER%2CCOLLABORATOR)
 
 ---
