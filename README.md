@@ -13,7 +13,7 @@ I'm a passionate developer working on various projects behind the scenes. While 
 
 ### 📊 GitHub Stats:
 
-![StarshipSystems's GitHub Stats](https://github-readme-stats.vercel.app/api?username=starshipsytems&show_icons=true&theme=radical)
+![StarshipSystems's GitHub Stats](https://github-readme-stats.vercel.app/api?username=starshipsystems&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starshipsystems&layout=compact&theme=radical)
 
