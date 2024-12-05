@@ -13,13 +13,13 @@ I'm a passionate developer working on various projects behind the scenes. While 
 
 ### 📊 GitHub Stats:
 
-![StarshipSystems's GitHub Stats](https://github-readme-stats.vercel.app/api?username=starshipsysteams&show_icons=true&theme=radical)
+![StarshipSystems's GitHub Stats](https://github-readme-stats.vercel.app/api?username=starshipsytems&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starshipsysteams&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starshipsystems&layout=compact&theme=radical)
 
-![Visitors](https://komarev.com/ghpvc/?username=starshipsysteams&color=blueviolet)  
-![GitHub followers](https://img.shields.io/github/followers/starshipsysteams?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/starshipsysteams?affiliations=OWNER%2CCOLLABORATOR)
+![Visitors](https://komarev.com/ghpvc/?username=starshipsystems&color=blueviolet)  
+![GitHub followers](https://img.shields.io/github/followers/starshipsystems?label=Follow&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/starshipsystems?affiliations=OWNER%2CCOLLABORATOR)
 
 ---
 
@@ -31,4 +31,4 @@ I’m always exploring new technologies and love experimenting with backend syst
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=starshipsysteams&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=starshipsystems&theme=radical)](https://git.io/streak-stats)
